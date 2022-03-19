@@ -1,0 +1,16 @@
+.cuerpo-pagina {
+  background-color: #cfbaf0;
+}
+.titulo {
+  text-align: center;
+}
+.contenedor {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.imagen {
+  height: 400px;
+  width: 400px;
+}
